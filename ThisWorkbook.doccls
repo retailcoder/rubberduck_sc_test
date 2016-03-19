@@ -1,1 +1,5 @@
 Option Explicit
+
+Sub DoSomething()
+
+End Sub
