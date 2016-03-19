@@ -17,6 +17,7 @@ Attribute VB_Exposed = False
 
 
 
+
 Option Explicit
 Private Const PROGRESSBAR_MAXWIDTH As Integer = 224
 
